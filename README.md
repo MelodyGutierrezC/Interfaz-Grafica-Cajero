@@ -27,6 +27,8 @@ FUNCIONAMIENTO INICIAL
 El programa comienza con una ventana de inicio que permite al usuario iniciar sesión con su nombre de usuario y contraseña o registrarse.
 
 
+![image](https://github.com/user-attachments/assets/802d86a8-b9fa-41ab-94f4-aa729fb65fc0)
+
 
 
 
