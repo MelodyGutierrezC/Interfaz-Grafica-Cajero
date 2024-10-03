@@ -136,7 +136,7 @@ Se actualizan los saldos de cada cuenta y se registra la transacción en los his
 
 
 
-Se abre una ventana con un área de texto (JTextArea) donde se muestra el historial de transacciones del usuario.El historial se carga desde un archivo de texto específico para cada usuario historial + nombre de usuario.txt
+Se abre una ventana con un área de texto (JTextArea) donde se muestra el historial de transacciones del usuario.El historial se carga desde un archivo de texto específico para cada usuario historial + nombre de usuario.txt.
 El usuario puede ver todas los movimientos realizados, como depositos, transferencias, retiros y saldo restante.
 
 **Salir:** Cierra la aplicación.
