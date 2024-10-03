@@ -47,7 +47,12 @@ También se crea un archivo de historial (historial_nombreUsuario.txt).
 
 3.-Menú Principal:
 Después de iniciar sesión, el usuario accede al menú principal con las siguientes opciones:
+
+![image](https://github.com/user-attachments/assets/1494490b-3797-47d5-b276-e54ac623d7f3)
+
 -Consultar saldo: Muestra el saldo disponible.
+
+![image](https://github.com/user-attachments/assets/31ed8a7e-84cd-4660-839b-f9010137f852)
 
 
 
@@ -62,6 +67,7 @@ Se crea una ventana emergente (JFrame) donde se muestra el saldo del usuario act
 
 -Depositar dinero: Permite al usuario depositar el dinero que desee.
 
+![image](https://github.com/user-attachments/assets/0bbfc891-9361-480f-be72-9c9ab6364b3e)
 
 
 
@@ -79,6 +85,7 @@ Tambien contiene el boton para retornar al menu principal.
 
 
 
+![image](https://github.com/user-attachments/assets/296da474-dbeb-4f05-9c44-edea8705a655)
 
 
 
@@ -91,6 +98,7 @@ Transferir dinero: Transfiere dinero a otra cuenta si el número de cuenta es v�
 
 
 
+![image](https://github.com/user-attachments/assets/db07fcd0-dc71-4a97-a712-0913512923ee)
 
 
 
@@ -103,8 +111,10 @@ Se actualizan los saldos de cada cuenta y se registra la transacción en los his
 
 Ver historial: Muestra el historial de todos los movimientos de la cuenta actual,ademas se guardara en un archivo.txt + nombre de usuario.
 
+![image](https://github.com/user-attachments/assets/5b51b36e-4e0f-4608-b5a4-00ce83b632f0)
 
 
+![image](https://github.com/user-attachments/assets/f4c048e0-2cfc-4c6f-8c13-37db57e5a06a)
 
 
 
