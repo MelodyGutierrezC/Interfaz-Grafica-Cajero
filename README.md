@@ -9,17 +9,29 @@ Descripción de Clases y Métodos
 **METODOS**
 
 **-cargarUsuarios():** Lee los datos de los usuarios desde un archivo (usuarios.txt) y los carga en un mapa (Map<String, Usuario> usuarios).
+
 **-registrar():** Permite registrar un nuevo usuario. Si el usuario no existe, solicita un nombre, contraseña y genera un número de cuenta.
+
 **-guardarUsuarioEnArchivo(Usuario usuario):** Guarda la información de un nuevo usuario en usuarios.txt.
+
 **-guardarTodosLosUsuarios():** Guarda toda la información de usuarios actualizada en usuarios.txt.
+
 **-ingresar():** Valida el nombre de usuario y contraseña, y si son correctos, abre el menú principal.
+
 **-abrirMenuPrincipal():** Cambia la interfaz gráfica para mostrar el menú principal con opciones de consulta y operaciones bancarias.
+
 **-abrirVentanaSaldo():** Abre una ventana que muestra el saldo actual del usuario.
+
 **-abrirVentanaDepositar():** Permite al usuario realizar un depósito.
+
 **-abrirVentanaRetirar():** Permite al usuario retirar dinero de su cuenta.
+
 **-abrirVentanaTransferencia():** Realiza transferencias de dinero entre cuentas.
+
 **-abrirVentanaHistorial():** Muestra el historial de transacciones del usuario actual.
+
 **-registrarHistorial(Usuario usuario, String tipoTransaccion, double cantidad):** Registra las transacciones realizadas por el usuario en un archivo de historial (historial_nombreUsuario.txt).
+
 **-buscarUsuarioPorNumeroCuenta(String numeroCuenta):** Busca un usuario por su número de cuenta en el mapa de usuarios.
 
 **Método main():**
