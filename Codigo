@@ -1,5 +1,5 @@
-// Este código sirve para la simulación de un cajero automatico,en este código permite  a los que lleguen a usar el programa registrarse,iniciar sesión,consultar saldo,realizar depósitos, retiros,transferir a diferentes cuentas y por ultimo ver el historial de las transacciones  realizadas.
-
+/** Este código sirve para la simulación de un cajero automatico,en este código permite  a los que lleguen a usar el programa registrarse,iniciar sesión,consultar saldo,realizar depósitos, retiros,transferir a diferentes cuentas y por ultimo ver el historial de las transacciones  realizadas.
+*/
 
 import javax.swing.*;//Inicializa la interfaz grafica
 import java.awt.*;
